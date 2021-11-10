@@ -38,7 +38,7 @@ const DUMMY_DATA = [
       "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!",
   },
   {
-    id: "m4",
+    id: "m5",
     title: "Foodies",
     image:
       "https://media.istockphoto.com/photos/friends-playing-volleyball-in-the-swimming-pool-picture-id1262681815?b=1&k=20&m=1262681815&s=170667a&w=0&h=CLUbFePBJghJHeTeWFVEsipIHHPteQV6iTOKh3XCbv4=",
