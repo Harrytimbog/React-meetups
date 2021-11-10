@@ -39,7 +39,7 @@ const DUMMY_DATA = [
   },
   {
     id: "m5",
-    title: "Foodies",
+    title: "Swimming",
     image:
       "https://media.istockphoto.com/photos/friends-playing-volleyball-in-the-swimming-pool-picture-id1262681815?b=1&k=20&m=1262681815&s=170667a&w=0&h=CLUbFePBJghJHeTeWFVEsipIHHPteQV6iTOKh3XCbv4=",
     address: "Soteria 5, 12345 Meetup City",
