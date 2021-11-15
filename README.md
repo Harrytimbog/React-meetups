@@ -1,6 +1,5 @@
 # React-Meetups
-An App that uses React basic features to show meetup details and add favorite meetup details
-
+A React App that adds new detailed meetup, logs a list of all and also select user's favorite meetups
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Getting Started
