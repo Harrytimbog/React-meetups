@@ -3,30 +3,52 @@ An App that uses React basic features to show meetup details and add favorite me
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+  ### Documentation    
 
-### `yarn start`
+## Demo    
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Run demo](https://wizardly-noyce-c3ca92.netlify.app/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Run Locally   
 
-### `yarn test`
+Clone the project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+``` console
+git clone git@github.com:Harrytimbog/React-meetups.git
+```
 
-### `yarn build`
+Go to the project directory
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+``` console
+cd React-meetups
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Install dependencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+``` console
+npm install
+# or
+yarn install
+```
 
+First, run the development server:
+
+```bash
+npm start
+# or
+yarn start
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Learn More
+
+## Feedback  
+
+Arigbede Timilehin Emmanuel - @Harrytimbog - harriemannie@gmail.com
+
+Project Link: git@github.com:Harrytimbog/React-meetups.git
+
+Demo Link: https://wizardly-noyce-c3ca92.netlify.app/
